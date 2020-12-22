@@ -1,4 +1,7 @@
 # Power Platform BPM Toolkit
-I will start sharing the code of Power Platform BPM Toolkit (currently in beta) in November.
+
+In December 23th, I will start testing the BPM Toolkit setup guide (video and pdf) on a nother human. If it is "good enough", I will share it here.
+
+Kind regards
 
 Doctor Flow aka "Serge Luca"
