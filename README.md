@@ -1,4 +1,4 @@
-# Power Platform BPM Toolkit (SharePoint version)
+# Power Platform BPM Toolkit Preview (SharePoint version)
 
 Welcome to the early release of the Power Platform BPM Toolkit for SharePoint.  
   
@@ -10,5 +10,7 @@ To install this preview, you will need the following files:
 
 
 A user guide is coming soon. 
+
+Don't hesitate to ask for help/comment in the forum.
 
 Doctor Flow aka "Serge Luca"
