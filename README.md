@@ -1,8 +1,8 @@
-# Power Platform BPM Toolkit
+# Power Platform BPM Toolkit (SharePoint version)
 
-The release was initially planned for end of November, so I'm late and I apologize.
-In December 23th, I will start testing the BPM Toolkit setup guide (video and pdf) on a another human. If it is "good enough", I will share it here.
-
-Kind regards
+Welcome to the early release of the Power Platform BPM Toolkit for SharePoint.
+The setup video here available [here] (https://www.youtube.com/watch?v=fwlPDj7IEpE&feature=youtu.be)
+The setup guide (pdf) is available here
+A user guide is coming...
 
 Doctor Flow aka "Serge Luca"
