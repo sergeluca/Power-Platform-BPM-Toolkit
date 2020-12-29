@@ -11,7 +11,9 @@ To install this preview, you will need the following files:
 3. the [setup files](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Setup_2020-12-24.zip).
 
 
-A user guide is coming soon. 
+A user guide is coming soon.   
+
+Target date for the production release: March 2021.
 
 Don't hesitate to ask for help/comment in the forum.
 
