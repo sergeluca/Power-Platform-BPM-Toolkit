@@ -10,7 +10,7 @@ The creator of this tool is serge luca aka 'Doctor Flow'.
 BPM means "Business Process Management".
 
 
-[BPM in Wikipedia](https://en.wikipedia.org/wiki/Business_process_management). 
+[BPM in Wikipedia](https://en.wikipedia.org/wiki/Business_process_management).   
 [BPM according to IBM](https://www.ibm.com/cloud/automation-software/business-process-management). 
 
 The goal was to provide a super securised approval system that can be used in HR, supply chain management, finance in order to fix some shortcomings in the Power Platform like the 30 days approval limitation, no tasks delegation, no state machine, no graphical view of the running workflows,...  
