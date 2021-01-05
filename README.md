@@ -13,7 +13,7 @@ BPM means "Business Process Management".
 [BPM in Wikipedia](https://en.wikipedia.org/wiki/Business_process_management).   
 [BPM according to IBM](https://www.ibm.com/cloud/automation-software/business-process-management). 
 
-The goal was to provide a super securised approval system that can be used in HR, supply chain management, finance in order to fix some shortcomings in the Power Platform like the 30 days approval limitation, no tasks delegation, no state machine, no graphical view of the running workflows,...  
+The goal was to provide a highly secured approval system that can be used in HR, supply chain management, finance in order to fix some shortcomings in the Power Platform like the 30 days approval limitation, no tasks delegation, no state machine, no graphical view of the running workflows,...  
 
 
 <img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20facts.jpg" width="760" height="420">
