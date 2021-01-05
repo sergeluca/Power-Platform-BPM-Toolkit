@@ -1,6 +1,8 @@
 # Power Platform BPM Toolkit Preview (SharePoint version)
 
 Welcome to the early release of the Power Platform BPM Toolkit for SharePoint.  
+The creator of this tool is serge luca aka 'Doctor Flow'.  
+@sergeluca. 
 
 
 ### What is the BPM Toolkit ?  
