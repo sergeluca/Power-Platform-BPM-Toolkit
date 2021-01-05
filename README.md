@@ -2,6 +2,12 @@
 
 Welcome to the early release of the Power Platform BPM Toolkit for SharePoint.  
 
+What is the BPM Toolkit ?
+
+<img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20facts.jpg" width="760" height="420">
+
+Installing the BPM Toolkit
+
 <img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Setup.jpg" width="760" height="420">
   
 To install this preview, you will need the following files:  
