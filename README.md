@@ -3,22 +3,22 @@
 Welcome to the early release of the Power Platform BPM Toolkit for SharePoint.  
 
 
-### What is the BPM Toolkit ?
+### What is the BPM Toolkit ?  
 
-BPM means Business Process Management.
+BPM means "Business Process Management".
+
+
+[BPM in Wikipedia](https://en.wikipedia.org/wiki/Business_process_management). 
+[BPM according to IBM](https://www.ibm.com/cloud/automation-software/business-process-management). 
 
 The goal was to provide a super securised approval system that can be used in HR, supply chain management, finance in order to fix some shortcomings in the Power Platform like the 30 days approval limitation, no tasks delegation, no state machine, no graphical view of the running workflows,...  
-
-
-[BPM in Wikipedia](https://en.wikipedia.org/wiki/Business_process_management)
-[BPM according to IBM](https://www.ibm.com/cloud/automation-software/business-process-management)
 
 
 <img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20facts.jpg" width="760" height="420">
 
 ### How can I start using the BPM Toolkit ?
 
-1.Install the BPM Toolkit (see next paragraph). 
+1.Install the BPM Toolkit (see next paragraph).   
 2.Follow the Developers guide tutorial (available 1/9/2021) to create your own request compatible with the BPM Toolkit. 
 
 ### How can I install the BPM Toolkit ?
