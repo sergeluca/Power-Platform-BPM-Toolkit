@@ -5,6 +5,15 @@ Welcome to the early release of the Power Platform BPM Toolkit for SharePoint.
 
 ### What is the BPM Toolkit ?
 
+BPM means Business Process Management.
+
+The goal was to provide a super securised approval system that can be used in HR, supply chain management, finance in order to fix some shortcomings in the Power Platform like the 30 days approval limitation, no tasks delegation, no state machine, no graphical view of the running workflows,...  
+
+
+[BPM in Wikipedia](https://en.wikipedia.org/wiki/Business_process_management)
+[BPM according to IBM](https://www.ibm.com/cloud/automation-software/business-process-management)
+
+
 <img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20facts.jpg" width="760" height="420">
 
 ### How can I start using the BPM Toolkit ?
@@ -43,6 +52,8 @@ If you want a RPA interaction, you will need the Per Flow license + 1 RPA licens
 Because your end users don't have to pay a premium license to benefit from all features provided by the BPM Toolkit. 
 We are working on a CDS/Dataverse version that will require a premium license. 
 
+### Is the BPM Toolkit used by real companies ?
 
+yes, several multinational companies are using the BPM Toolkit in preview mode for automating their HR business process. They are currently testing the tool.
 
 Doctor Flow aka "Serge Luca"
