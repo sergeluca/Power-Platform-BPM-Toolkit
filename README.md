@@ -20,8 +20,8 @@ The goal was to provide a highly secured approval system that can be used in HR,
 
 ### How can I start using the BPM Toolkit ?
 
-1.Install the BPM Toolkit (see next paragraph).   
-2.Follow the Developers guide tutorial (available 1/9/2021) to create your own request compatible with the BPM Toolkit. 
+1.Install the BPM Toolkit (see next paragraph). A new (preview) version will be shared : 1/21/201-> so wait a little bit.  
+2.Follow the Developers guide tutorial (available 1/21/2021) to create your own request compatible with the BPM Toolkit. 
 
 ### How can I install the BPM Toolkit ?
 
@@ -35,7 +35,7 @@ To install this preview, you will need the following files:
 
 ### How can I create my own custom request compatible with the BPM Toolkit ? 
 
-The developer guide will be available : 1/9/2021. 
+The developer guide will be available : 1/21/2021. 
 
 
 ### When will the BPM Toolkit be released in production mode ? 
