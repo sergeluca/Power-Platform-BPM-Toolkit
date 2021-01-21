@@ -34,6 +34,9 @@ To install this preview, you will need the following files:
 3. the [setup files](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit%20Setup%20file%2001_21_2021.zip).
 
 ### How can I create my own custom request compatible with the BPM Toolkit ? 
+https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Dev%20Guide.jpg
+
+<img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Dev%20Guide.jpg" width="760" height="420">
 
 Just follow the [BPM Toolkit Developer's guide](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Developer%20Guide.pdf).
 
