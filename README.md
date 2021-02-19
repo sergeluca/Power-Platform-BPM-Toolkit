@@ -18,6 +18,14 @@ The goal was to provide a highly secured approval system that can be used in HR,
 
 <img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20facts.jpg" width="760" height="420">
 
+
+### videos describing the BPM Toolkit functionalities
+
+Features (https://www.youtube.com/watch?v=8_uj-mNA4XE&t=196s)
+
+Architecture (https://www.youtube.com/watch?v=QJS_6Ds1owo&t=2197s)
+
+
 ### How can I start using the BPM Toolkit ?
 
 1.Install the BPM Toolkit (see next paragraph).  
