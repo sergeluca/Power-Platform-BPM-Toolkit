@@ -21,7 +21,9 @@ The goal was to provide a highly secured approval system that can be used in HR,
 
 ### Videos describing the BPM Toolkit features and architecture
 
+
 <a href="https://www.youtube.com/watch?v=QJS_6Ds1owo&t=2197s"> <img src=https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/bpmtoolkitvideofeature.png width="760" height="420"> </a>
+
 
 <a href="https://www.youtube.com/watch?v=8_uj-mNA4XE&t=196s"><img src=https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/bpmtoolkitvideoarchitecture.png width="760" height="420">
 </a>
