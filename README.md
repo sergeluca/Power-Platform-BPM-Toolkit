@@ -40,7 +40,7 @@ The goal was to provide a highly secured approval system that can be used in HR,
   
 To install this preview, you will need the following files:  
 
-1. the [setup video](https://www.youtube.com/watch?v=fwlPDj7IEpE&feature=youtu.be).
+1. the [setup video](https://www.youtube.com/watch?v=WTb7NRtEMTE&t=4596s).
 2. the [setup guide (pdf)](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20setup%20guide.pdf).
 3. the [setup files](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Setup_02_07_2021_v2.zip). 
 
