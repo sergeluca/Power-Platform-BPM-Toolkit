@@ -55,7 +55,7 @@ Just follow the [BPM Toolkit Developer's guide](https://github.com/sergeluca/Pow
 
 ### When will the BPM Toolkit be released in production mode ? 
 
-April 2021.
+February 2022.
 
 ### License needed for using the Power Platform BPM Toolkit (SharePoint)
 
