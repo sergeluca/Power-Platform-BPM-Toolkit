@@ -23,15 +23,15 @@ The goal was to provide a highly secured approval system that can be used in HR,
 1. Improved and faster state machine engine.
 2. Improved UX.
 3. Improved reliability
-Batch approval
-BPM Toolkit monitoring application
-BPM Toolkit archiving application
-New workflow verbs
-Improved goto verbs
-Environment variables
-Ping me
-Refactoring
-67 bugs fixed
+4. Batch approval
+5. BPM Toolkit monitoring application
+6. BPM Toolkit archiving application
+7. New workflow verbs
+8. Improved goto verbs
+9. Environment variables
+10. Ping me
+11. Refactoring
+12. 67 bugs fixed
 
 ### What is still missing
 
