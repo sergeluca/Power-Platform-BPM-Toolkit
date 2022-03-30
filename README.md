@@ -21,7 +21,8 @@ The goal was to provide a highly secured approval system that can be used in HR,
 
 ### Videos describing the BPM Toolkit features and architecture
 
-This video still illustrates the previous version; a new & updated video is coming soon.
+This video still illustrates the previous version (2021); a new & updated video is coming soon.
+
 <a href="https://www.youtube.com/watch?v=QJS_6Ds1owo&t=2197s"> <img src=https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/bpmtoolkitvideofeature.png width="760" height="420"> </a>
 
 
@@ -36,7 +37,7 @@ This video still illustrates the previous version; a new & updated video is comi
 
 ### How can I install the BPM Toolkit ?
 
-<img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit2022Setup.jpg" width="760" height="420">
+<a href="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%202022%20setup%20guide.pdf"><img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit2022Setup.jpg" width="760" height="420"></a>
   
 To install this preview, you will need the following files:  
 
@@ -46,7 +47,7 @@ To install this preview, you will need the following files:
 
 ## Install and configure the Demo application and start using the BPM Toolkit
 
-<img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit2022Using.jpg" width="760" height="420">
+<a href="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%202022%20using%20guide.pdf"><img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit2022Using.jpg" width="760" height="420"></a>
 
 Just follow the [BPM Toolkit Using guide (pdf)](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%202022%20using%20guide.pdf).
 
