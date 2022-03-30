@@ -1,7 +1,7 @@
 # The Power Platform BPM Toolkit 2022 (SharePoint version)
 
 Welcome to the 2022 release of the Power Platform BPM Toolkit for SharePoint.  
-The creator of this tool is serge luca aka 'Doctor Flow'.  
+The creator of this tool is Serge Luca aka 'Doctor Flow'.  
 @sergeluca. 
 
 
