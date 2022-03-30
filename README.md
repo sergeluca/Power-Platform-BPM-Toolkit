@@ -32,7 +32,7 @@ The goal was to provide a highly secured approval system that can be used in HR,
 ### How can I start using the BPM Toolkit ?
 
 1.Install the BPM Toolkit (see next paragraph).  
-2.Follow the Developers guide to create your own request compatible with the BPM Toolkit. 
+2.Follow the BPM Toolkit using guide to create your own request compatible with the BPM Toolkit. 
 
 ### How can I install the BPM Toolkit ?
 
@@ -40,9 +40,9 @@ The goal was to provide a highly secured approval system that can be used in HR,
   
 To install this preview, you will need the following files:  
 
-1. the [setup video](https://youtu.be/WTb7NRtEMTE).
-2. the [setup guide (pdf)](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20setup%20guide.pdf).
-3. the [setup files](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Setup_02_07_2021_v2.zip). 
+
+1. the [setup guide (pdf)](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20setup%20guide.pdf).
+2. the [setup files](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Setup_02_07_2021_v2.zip). 
 
 ### How can I create my own custom request compatible with the BPM Toolkit ? 
 
