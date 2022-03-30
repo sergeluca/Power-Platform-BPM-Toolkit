@@ -64,7 +64,7 @@ To install this preview, you will need the following files:
 1. the [setup guide (pdf)](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%202022%20setup%20guide.pdf).
 2. the [setup files](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit_2022_setup.zip). 
 
-## Install and configure the Demo application and start using the BPM Toolkit
+### Install and configure the Demo application and start using the BPM Toolkit
 
 <a href="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%202022%20using%20guide.pdf"><img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit2022Using.jpg" width="760" height="420"></a>
 
@@ -74,13 +74,13 @@ Just follow the [BPM Toolkit Using guide (pdf)](https://github.com/sergeluca/Pow
 
 a Developer's guide is coming soon.
 
-## BPM Toolkit Architecture
+### BPM Toolkit Architecture
 
 A new video is coming to illustrate the following architecture:
 
 <img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20modules.jpg" width="760" height="420">
 
-## The vision
+### The vision
 
 The Business process mining and the analytics must still be created.
 The Dataverse version is already there, but in early beta version.
