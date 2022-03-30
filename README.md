@@ -20,8 +20,8 @@ The goal was to provide a highly secured approval system that can be used in HR,
 
 ## New features in the 2022 version
 
-1.Improved and faster state machine engine
-2.Improved UX
+1.Improved and faster state machine engine.
+2.Improved UX.
 3.Improved reliability
 Batch approval
 BPM Toolkit monitoring application
