@@ -44,14 +44,14 @@ To install this preview, you will need the following files:
 1. the [setup guide (pdf)](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%202022%20setup%20guide.pdf).
 2. the [setup files](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit_2022_setup.zip). 
 
+## Install and configure the Demo application and start using the BPM Toolkit
+Just follow the [BPM Toolkit Using guide](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%202022%20using%20guide.pdf).
+
 ### How can I create my own custom request compatible with the BPM Toolkit ? 
 
-Just follow the [BPM Toolkit Developer's guide](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Developer%20Guide.pdf).
+a Developer's guide is coming soon.
 
-<img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Dev%20Guide.jpg" width="760" height="420">
-
-
-
+## BPM Toolkit Architecture
 
 
 
