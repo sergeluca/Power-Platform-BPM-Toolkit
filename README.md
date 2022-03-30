@@ -1,6 +1,6 @@
-# The Power Platform BPM Toolkit Preview (SharePoint version)
+# The Power Platform BPM Toolkit 2022 (SharePoint version)
 
-Welcome to the early release of the Power Platform BPM Toolkit for SharePoint.  
+Welcome to the 2022 release of the Power Platform BPM Toolkit for SharePoint.  
 The creator of this tool is serge luca aka 'Doctor Flow'.  
 @sergeluca. 
 
@@ -53,9 +53,7 @@ Just follow the [BPM Toolkit Developer's guide](https://github.com/sergeluca/Pow
 
 
 
-### When will the BPM Toolkit be released in production mode ? 
 
-February 2022.
 
 ### License needed for using the Power Platform BPM Toolkit (SharePoint)
 
@@ -71,6 +69,6 @@ We are working on a CDS/Dataverse version that will require a premium license.
 
 ### Is the BPM Toolkit used by real companies ?
 
-yes, several multinational companies are using the BPM Toolkit in preview mode for automating their HR business process. They are currently testing the tool.
+yes, several multinational companies are using the BPM Toolkit for automating their HR business process. They are currently testing the tool.
 
 Doctor Flow aka "Serge Luca"
