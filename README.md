@@ -21,7 +21,7 @@ The goal was to provide a highly secured approval system that can be used in HR,
 
 ### Videos describing the BPM Toolkit features and architecture
 
-
+This video still illustrates the previous version; a new & updated video is coming soon.
 <a href="https://www.youtube.com/watch?v=QJS_6Ds1owo&t=2197s"> <img src=https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/bpmtoolkitvideofeature.png width="760" height="420"> </a>
 
 
@@ -41,8 +41,8 @@ The goal was to provide a highly secured approval system that can be used in HR,
 To install this preview, you will need the following files:  
 
 
-1. the [setup guide (pdf)](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/edit/main/README.md).
-2. the [setup files](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20Setup_02_07_2021_v2.zip). 
+1. the [setup guide (pdf)](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%202022%20setup%20guide.pdf).
+2. the [setup files](https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit_2022_setup.zip). 
 
 ### How can I create my own custom request compatible with the BPM Toolkit ? 
 
