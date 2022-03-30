@@ -36,7 +36,7 @@ This video still illustrates the previous version; a new & updated video is comi
 
 ### How can I install the BPM Toolkit ?
 
-<img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/" width="760" height="420">
+<img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit2022Setup.jpg" width="760" height="420">
   
 To install this preview, you will need the following files:  
 
