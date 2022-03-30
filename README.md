@@ -76,7 +76,9 @@ a Developer's guide is coming soon.
 
 ## BPM Toolkit Architecture
 
+A new video is coming to illustrate the following architecture:
 
+<img src="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20modules.jpg" width="760" height="420">
 
 
 ### License needed for using the Power Platform BPM Toolkit (SharePoint)
