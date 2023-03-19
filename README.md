@@ -1,13 +1,13 @@
 # The Power Platform BPM Toolkit 2023 (Dataverse version, early alpha version)
 
-This version is an alpha version with a new workflow engine.
-The data model is new
-The code has been re-written from scratch
-The security model is not implemented yet
-The error handling must be genaralized
-There is a new workflow engine (100% implemented with Power Automate)
-To evaluate the BPM Toolkit, or to use it in production, download and install the version SharePoint.
-We will upload the final Dataverse version in September 2023.
+1. This version is an alpha version with a new workflow engine.
+2. The data model is new
+3. The code has been re-written from scratch
+4. The security model is not implemented yet
+5. The error handling must be genaralized
+6. There is a new workflow engine (100% implemented with Power Automate)
+7. To evaluate the BPM Toolkit, or to use it in production, download and install the version SharePoint.
+8. We will upload the final Dataverse version in September 2023.
 
 # The Power Platform BPM Toolkit 2022 (SharePoint version)
 
