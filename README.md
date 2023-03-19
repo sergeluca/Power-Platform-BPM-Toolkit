@@ -6,8 +6,11 @@
 4. The security model is not implemented yet
 5. The error handling must be genaralized
 6. There is a new workflow engine (100% implemented with Power Automate)
-7. To evaluate the BPM Toolkit, or to use it in production, download and install the version SharePoint.
-8. We will upload the final Dataverse version in September 2023.
+7. The setup guide will be uploaded soon
+
+
+ To evaluate the BPM Toolkit, or to use it in production, download and install the version SharePoint.
+ We will upload the final Dataverse version in September 2023.
 
 # The Power Platform BPM Toolkit 2022 (SharePoint version)
 
