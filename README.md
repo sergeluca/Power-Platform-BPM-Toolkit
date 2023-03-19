@@ -1,9 +1,12 @@
 # The Power Platform BPM Toolkit 2023 (Dataverse version, early alpha version)
 
-the solution file is https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit%20Dataverse_alpha.zip
+the solution file is here: https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPMToolkit_DataverseAlphaMarch2023.zip
 
 1. This version is an alpha version with a new workflow engine.
-2. The data model is new
+2. The data model is new:
+
+<a href="https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20-%20Dataverse%20Data%20Model.png"> <img src=https://github.com/sergeluca/Power-Platform-BPM-Toolkit/blob/main/BPM%20Toolkit%20-%20Dataverse%20Data%20Model.png width="760" height="420"> </a>
+
 3. The code has been re-written from scratch
 4. The security model is not implemented yet
 5. The error handling must be genaralized
